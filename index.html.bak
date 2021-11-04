@@ -1,65 +1,86 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="veiwport" content="width=device-width, initial scale=1">
-        <title>=dUCkWdtopia&trade;=</title>
-    </head>
-        <!--this is going to be the most epic website-->
-    <body>
-<h1>welcome to the best website ever for the best youtube channel ever. click picture for youtube</h1>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia:regular">
+    <meta name="veiwport" content="width=device-width, initial scale=1">
+    <title>=dUCkW33dtopia™=</title>
+    <style>
+body {
+  background-image: url("photos/look-its-claus.gif");
+  background-size: 200px auto;
+  font-family: "Old English Text MT";
+}
 
-<a href="https://www.youtube.com/channel/UC2xpUTXY4w4Lk9knXpuaggQ"target="_blank"> <img src="photos/me when2 sprite.png"/></a>
+.div {
+  font-size: larger;
+}
 
+@media print {
+  #w {
+  }
+}
 
-<!--epic list-->
-<ul>
-<li>awsome facts
+</style> </head>
+  <!--this is going to be the most epic website--> <body>
+    <h1>
+      <center><span style="color: red;" id="s">welcome to the best website ever
+          for the best youtube channel ever. click picture for youtube</span></center>
+    </h1>
+    <div style="text-align: center;">
+      <p><a href="https://www.youtube.com/channel/UC2xpUTXY4w4Lk9knXpuaggQ" target="_blank">
+        </a><strong><em><a href="https://www.youtube.com/channel/UC2xpUTXY4w4Lk9knXpuaggQ"
+              target="_blank"><img src="photos/me%20when2%20sprite.png" style="width: 174px; height: 104px;"></a></em></strong></p>
+    </div>
+    <h1 style="text-align: center;"><span style="color: red;" id="s">HAPPY
+        CHRISTMAS UPDATE !!!!!!!</span></h1>
     <ul>
-        <li>large penis</li>
-        <li>Large penor</li>
+      <li><span style="color: #3df400;">awsome facts </span>
+        <ul>
+          <span style="color: #3df400;"> </span>
+          <li><span style="color: #3df400;">large penis</span></li>
+          <span style="color: #3df400;"> </span>
+          <li><span style="color: #3df400;">Large penor</span></li>
         </ul>
-
-</li>
+      </li>
     </ul>
-<!--epic table-->
-<h3>epic table of stats (year 2020)</h3>
-<table border="10" cellspacing="1">
-    <tr>
-        <th>gains</th>
-        <th>grind</th>
-        <th colspan="2">lols</th>
-    </tr>
-    <tr>
-        <td>0$</td>
-        <td>20minute per month</td>
-        <td>100ml </td>
-        <td>250ml </td>
-    </tr>    <tr>
-        <td>0$</td>
-        <td>20minute pe month</td>
-        <td>100ml </td>
-        <td>250ml </td>
-    </tr>
-</table>
-
-    <h1>Epic music that will change each update:</h1> <p>current music Look at the owl</p>
-    
-
-    </body>
-
-    <body>
-      
-
-        <audio controls autoplay loop>
-            <source src="audio/owl.mp3" type="audio/mp3">
-    
-        </audio>
-
-        <img src="photos/dance-dancing-dog.gif"/>
-
-        <h1> <a href="subpages/websim.html"> Website simulator </a> </h1>
-
-    </body>
-
+    <span style="color: red;"><!--epic table--> </span>
+    <h3><span style="color: red;" id="w">epic table of stats (year 2020)</span></h3>
+    <table style="width: 289px; height: 139px; table-layout: auto;" cellspacing="1"
+      border="10" bgcolor="white">
+      <tbody>
+        <tr>
+          <th><span style="color: #cc33cc;">gains</span></th>
+          <th><span style="color: #ff99ff;">grind</span></th>
+          <th colspan="2"><span style="color: #ff99ff;">lols</span></th>
+        </tr>
+        <tr>
+          <td><span style="color: yellow;">0$</span></td>
+          <td><span style="color: yellow;">20minute per month</span></td>
+          <td><span style="color: yellow;">100ml </span></td>
+          <td><span style="color: yellow;">250ml </span></td>
+        </tr>
+        <tr>
+          <td><span style="color: yellow;">0$</span></td>
+          <td><span style="color: yellow;">20minute pe month</span></td>
+          <td><span style="color: yellow;">100ml </span></td>
+          <td><span style="color: yellow;">250ml </span></td>
+        </tr>
+      </tbody>
+    </table>
+    <h1><span style="color: red;">Epic music that will change each update:</span></h1>
+    <p><span style="color: #00b200;" id="a" class="div">current music&nbsp;
+        playing: [Black MIDI] All I Want For Christmas Is You 8.3 Million by
+        HRK.ExE<br>
+      </span></p>
+    <div style="text-align: left;"><span style="color: #00b200;"> </span><audio
+        controls="controls" autoplay="autoplay" loop=""> <source src="audio/aiwChrist.mp3"
+          type="audio/mp3"><span style="color: #00b200;"> </span></audio></div>
+    <div style="text-align: left;">s<img src="photos/dance-dancing-dog.gif" style="width: 1016px; height: 200px;"></div>
+    <blockquote>
+      <h1> <a href="subpages/websim.html"> <span style="color: #33ff33;">Website
+            simulator</span></a></h1>
+    </blockquote>
+    <br>
+  </body>
 </html>
